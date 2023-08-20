@@ -19,7 +19,7 @@ const App = () => {
                 btn = "Option 2"
                 fun = {setSelectedOption}
         />
-        <p> Selected Option : {selectedOption}</p>
+        <p>Selected Option : {selectedOption}</p>
     </div>
   )
 }
